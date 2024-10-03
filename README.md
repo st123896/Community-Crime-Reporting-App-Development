@@ -1,6 +1,5 @@
 # Community-Crime-Reporting-App-Development
 
-# Community Crime Reporting App Development
 
 ## Overview
 
